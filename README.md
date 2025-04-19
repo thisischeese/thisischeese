@@ -3,7 +3,7 @@
 ## Profile
 - 안정적인 데이터 흐름을 설계해 AI 기반 서비스의 운영을 지원하는 개발자입니다. 데이터 파이프라인 구축, 분산 처리 등 데이터 인프라 전반에 큰 관심을 가지고 있습니다. 데이터 인프라 설계 및 구축을 통해 서비스의 성능을 높이고 데이터 기반 의사결정을 지원하고자 합니다.
 - Email : charlie0990a@gmail.com
-- Blog : [Medium 블로그](https://medium.com/@charlie0990a)
+- Blog : 
 
 
 ## Skills
