@@ -66,9 +66,11 @@
 ## Education 
 - (2021.03 ~ 2025.08) 숭실대 AI융합학부
 
-## 
+## Status
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=citcat)](https://solved.ac/citcat)
-
+<!---
+[![thisischeese's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisischeese)](https://github.com/thisischeese/github-readme-stats)
+--->
 
 
 
