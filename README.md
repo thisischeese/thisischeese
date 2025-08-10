@@ -61,11 +61,11 @@
 
 ## Status
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=citcat)](https://solved.ac/citcat)
-<!---
-[![thisischeese's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisischeese)](https://github.com/thisischeese/github-readme-stats)
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisischeese&layout=compact&theme=tokyonight)
+<!--
+![thisischeese's github stats](https://github-readme-stats.vercel.app/api?username=thisischeese&show_icons=true&theme=tokyonight)
 
-
+-->
 
 
 
