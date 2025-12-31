@@ -58,21 +58,19 @@
 
 </div>
 
+ ## Certificates
+<img width="100" height="100" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/fefd9278-fd77-4ba3-b931-94f98ba793be" />
 
 
 ## Status
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=citcat)](https://solved.ac/citcat)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisischeese&layout=compact&theme=tokyonight)
 
-![thisischeese's github stats](https://github-readme-stats.vercel.app/api?username=thisischeese&show_icons=true&theme=tokyonight)
 
--->
 
-## Certificates
-<div align="left">
-<img width="100" height="100" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/fefd9278-fd77-4ba3-b931-94f98ba793be" />
-</div>
+
+
+
 
 <!--
 **thisischeese/thisischeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
