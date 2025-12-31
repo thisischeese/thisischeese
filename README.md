@@ -1,7 +1,7 @@
 # 최다은
 
 ## Profile
-- 안정적인 데이터 흐름을 설계해 AI 기반 서비스 운영 지원에 기여하는 개발자입니다. AI 모델 서빙, 데이터 파이프라인 구축, 분산 처리 등 AI 서비스 인프라 전반에 큰 관심을 가지고 있습니다. AI 서비스 인프라 설계 및 구축을 통해 서비스의 성능을 높이고 데이터 기반 의사결정을 지원하고자 합니다.
+
 - Email : charlie0990a@gmail.com
 - Blog : https://velog.io/@kikiaeyo/posts
 
@@ -62,13 +62,17 @@
 
 ## Status
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=citcat)](https://solved.ac/citcat)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisischeese&layout=compact&theme=tokyonight)
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisischeese&layout=compact&theme=tokyonight)
+
 ![thisischeese's github stats](https://github-readme-stats.vercel.app/api?username=thisischeese&show_icons=true&theme=tokyonight)
 
 -->
 
-
+## Certificates
+<div align="left">
+<img width="100" height="100" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/fefd9278-fd77-4ba3-b931-94f98ba793be" />
+</div>
 
 <!--
 **thisischeese/thisischeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
