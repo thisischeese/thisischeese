@@ -6,6 +6,9 @@
 - Blog : https://velog.io/@kikiaeyo/posts
 
 ## Skills
+_Somewhere, somehow..._
+<img width="1898" height="1162" alt="image" src="https://github.com/user-attachments/assets/43ad3891-1c33-4097-a001-8c66efa430b5" />
+
 
 <div align="left">
  
