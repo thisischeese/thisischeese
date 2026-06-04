@@ -2,11 +2,13 @@
 - **Email** : iamclwm@gmail.com
 - **Blog** : [velog.io/@kikiaeyo](https://velog.io/@kikiaeyo/posts)
 <br>
+
 ## 🔭 Currently Working On
 
-- ⚾️ **[ML 기반 여행지 추천](https://github.com/thisischeese/레포지토리)** : User 프로필 기반 여행지 추천 프로젝트  
+- ⚾️ **[ML 기반 여행지 추천 프로젝트 : 야단법석](https://github.com/thisischeese/kor_travel_recommendation)** : User 프로필 기반 여행지 추천 프로젝트  
   - `Python`,`Pandas`, `CF`, `CBF`
 <br>
+
 ## 🛠 Skills & Tech Stack
 
 #### ◾ Programming Language
