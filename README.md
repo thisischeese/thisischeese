@@ -58,13 +58,13 @@ _Somewhere, somehow..._
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
 </div>
-
+<!--
  ## Certificates
 <img width="100" height="100" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/fefd9278-fd77-4ba3-b931-94f98ba793be" />
 <img width="198" height="100" alt="image" src="https://github.com/user-attachments/assets/4e6fa997-a222-4dad-8707-d5fa85c2f702" />
 <img width="220" height="100" alt="image" src="https://github.com/user-attachments/assets/9e1a96ea-ac26-44fe-9efc-d6073489bb75" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/38bd7761-3680-4ab1-96db-3266f7dd8626" />
-
+-->
 
 ## Status
 
