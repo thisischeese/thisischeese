@@ -5,9 +5,10 @@
 
 ## 🔭 Currently Working On
 
-- ⚾️ **[ML 기반 여행지 추천 프로젝트 : 야단법석](https://github.com/thisischeese/kor_travel_recommendation)** : User 프로필 기반 여행지 추천 프로젝트  
-  - `Python`,`Pandas`, `CF`, `CBF`
+- ⚾️ **[ML 기반 여행지 추천 프로젝트 : 야단법석](https://github.com/manru-homerun/AI)** : User 프로필 기반 여행지 추천 프로젝트  
+  - `Python`,`Pandas`, `CF`, `CBF`..?
 <br>
+
 
 ## 🛠 Skills & Tech Stack
 
